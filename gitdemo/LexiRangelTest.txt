@@ -1,5 +1,0 @@
-NAME: Lexi Rangel
-PRIMARY: Environment Artist
-SECONDARY: Props/Weapon Artist
-COMFORT: 7 / 10 (Note: Never worked with Unreal before but willing to try it out, currently taking a quick crash-course lessons to understand the game engine)
-DESIRED WORK: Besides continuing to create advanced/detailed environment models, I am interested in modeling detailed props such as weapons or items. Would advise not to give me tasks that involve coding/programming due to uncanny coding outcome that guarantees breaking game projects.
