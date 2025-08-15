@@ -1,0 +1,5 @@
+Dorian Yanez-Wickman
+Programmer
+Designer
+3/10
+Player Stats (health, infection, hunger, etc.), Items (weapons, health items, temp buffs, etc.), world objects (non-CPU hazards, interactables, etc.)
